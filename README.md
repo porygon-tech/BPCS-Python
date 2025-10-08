@@ -10,4 +10,3 @@ python .\tryhard_encryptor.py <your_password> secret_plain_text.txt
 python .\tryhard_encryptor.py <your_password> your_salt.txt your_encrypted_secret.txt
 ```
 ![Chihuahua guapo](/prettyhuahua.png)
-''Ä
